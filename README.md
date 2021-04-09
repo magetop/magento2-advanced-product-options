@@ -1,4 +1,4 @@
-# Magento 2 Advanced Product Options Extension by Magetop
+# Magento 2 Advanced Product Options by Magetop
 
 **Magento 2 Advanced Product Options Extension** is a premium plugin which is developed by Magetop. It allows you to add custom options such as radio buttons, color pickers, image options, number options, dropdowns, datepickers, image uploads, etc to your products on your shop.
 
